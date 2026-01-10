@@ -1,6 +1,7 @@
 # notes
 Some notes about this and that
 
+---
 
-
-http://www.jewuwa.de/T5/T5_Doku/Belegung_Sicherungskasten.pdf
+## Vw Transporter T5, California (Campingausrüstung)
+[Sicherungen](https://github.com/greyshine/notes/blob/master/VW-T5-California/sicherungen.md)
