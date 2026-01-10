@@ -120,12 +120,45 @@ Siehe auch:
 
 |Sicherung|Verbraucher|Ampere|
 |---------|-----------|------|
-|16|Batterieladegerät|30|
-|17|Aufstelldach|30|
-|18|Leseleuchten|10|
-|19|Kühlbox|10|
-|20|Wasserpunmpe|5|
-|21|Zentrales Bedienfeld|5|
+|1|Stecker 10-polig / Stecker 6-polig|5A|
+|2|Stecker 10-polig|3A|
+|3|Anschluss 10-polig oder Notdatenlogger|5/15A|
+|4|Stecker 10-polig|15A|
+|5|Stecker 10-polig|5A|
+|6|Stecker 6-polig|25A|
+|7|12V Steckdose, Spannungswandler|15/30|
+|8|Heizungssteuergerät (Heizung)|20/25A|
+|9|Zuluftventilator|25/30A|
+|10|Klimatisierung|15/30A|
+|11|Sicherung Zigarettenanzünder|15A|
+|12|Stecker 10-polig / Stecker 6-polig|5A|
+|13|Lokales Relais||
+|14|Lokales Relais||
+|15|Lokales Relais||
+|16|Onboard-Ladegerät|30A|
+|17|Steuergerät für Dachhydraulik|30A|
+|18|Deckenlampen|10A|
+|19|Gekühltes Fach|10A|
+|20|Wasserpumpe|5A|
+|21|Bedienfeld der Camper-Ausrüstung|5A|
+|22|12V Steckdose|15A|
+|23|12V Steckdose|15A|
+|24|Dachlüfter oder 12V Steckdose|10A|
+|25|Steuergerät für Anhängererkennung|15A|
+|26|Steuergerät für Anhängererkennung|20A|
+|27|Steuergerät für Anhängererkennung|20A|
+|28|Steuergerät für Anhängererkennung|7.5A|
+|29|Reservieren||
+|30|Steuereinheit für Sprachverstärker|5A|
+|31|Reservieren||
+|32|Reservieren||
+|33|Lordosenstütze für den Fahrersitz|15A|
+|34|Steuergerät für rechte Schiebetür|40A|
+|35|Ladesteuergerät für zweite Batterie|80A|
+|36|Steuergerät für linke Schiebetür|40A|
+|37|Zuluftventilator|40A|
+|38|Stecker 6-polig||
+|39|Reservieren||
 
 __Liste aus Handbuch und nicht vollständig. Dort ist nicht mehr ausgeführt...__
 ----
