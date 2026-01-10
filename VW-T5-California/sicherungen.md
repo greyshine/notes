@@ -1,9 +1,12 @@
 # VW Transporter 5, California
 Baujahr 2011
 
-Positionen der Sicherungen, siehe hier: www.youtube.com/
+Positionen der Sicherungen im Fahrzeug, siehe hier: www.youtube.com/
 
 Zusammengestellt nach bestem Wissen und Gewissen
+
+Es ist sehr mühselig herauszufinden, wo welche Sicherung im Fahrzeig sitzt.  
+Wer Hinweise hat, darf mich gerne kontaktieren.
 
 
 ## Sicherungskasten im Motorraum (A)
@@ -106,6 +109,15 @@ Zusammengestellt nach bestem Wissen und Gewissen
 
 <img src="VWT5 Sicherungen Fahrersitz.jpg">
 
+|Sicherung|Verbraucher|Ampere|
+|---------|-----------|------|
+|16|Batterieladegerät|30|
+|17|Aufstelldach|30|
+|18|Leseleuchten|10|
+|19|Kühlbox|10|
+|20|Wasserpunmpe|5|
+|21|Zentrales Bedienfeld|5|
 
+__Liste aus Handbuch und nicht vollständig. Dort ist nicht mehr ausgeführt...__
 ----
 Quelle A,B,C: http://www.jewuwa.de/T5/T5_Doku/Belegung_Sicherungskasten.pdf; abgerufen am 10.01.2026
