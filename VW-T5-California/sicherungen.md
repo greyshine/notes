@@ -114,7 +114,7 @@ Siehe auch:
 |36| 15 A 12 V Steckdose 4 (ich glaube hinten)|
 
 
-## Sicherungen unter dem Fahrersitz für Campingausstattung
+## Sicherungen unter dem Fahrersitz (auch für Campingausstattung)
 
 <img src="VWT5 Sicherungen Fahrersitz.jpg">
 
