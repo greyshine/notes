@@ -1,12 +1,15 @@
 # VW Transporter 5, California
 Baujahr 2011
 
-Positionen der Sicherungen im Fahrzeug, siehe hier: www.youtube.com/
+Positionen der Sicherungen im Fahrzeug, siehe hier: https://youtube.com/shorts/fF-ZMMC81cQ
 
 Zusammengestellt nach bestem Wissen und Gewissen
 
 Es ist sehr mühselig herauszufinden, wo welche Sicherung im Fahrzeig sitzt.  
 Wer Hinweise hat, darf mich gerne kontaktieren.
+
+Siehe auch:
+- https://sicherungsbelegung.de/vw/transporter-t5
 
 
 ## Sicherungskasten im Motorraum (A)
@@ -25,6 +28,9 @@ Wer Hinweise hat, darf mich gerne kontaktieren.
 
 
 ## Sicherungskasten (B), der obere hinter dem Flaschenfach
+
+
+
 |Sicherung|Verbraucher|
 |---------|-----------|
 |1| 30 A Relais X-Kontakt Relais Frischluftgebläse|
