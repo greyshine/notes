@@ -29,7 +29,7 @@ Siehe auch:
 
 ## Sicherungskasten (B), der obere hinter dem Flaschenfach
 
-
+vw-t5-fusecard-mittelkonsole-top.jpg
 
 |Sicherung|Verbraucher|
 |---------|-----------|
@@ -71,6 +71,9 @@ Siehe auch:
 |36| 25 A Bordnetzsteuergerät, Blinker|
 
 ## Sicherungskasten (C), der untere im FlaschenfachSicherungskasten (C), der untere im Flaschenfach
+
+vw-t5-fusecard-mittelkonsole-bottomjpg
+
 |Sicherung|Verbraucher|
 |---------|-----------|
 |1| 12 V Steckdose 2 (ich glaube an der B-Säule)|
