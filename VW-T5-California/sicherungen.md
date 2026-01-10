@@ -29,7 +29,7 @@ Siehe auch:
 
 ## Sicherungskasten (B), der obere hinter dem Flaschenfach
 
-vw-t5-fusecard-mittelkonsole-top.jpg
+<img src="vw-t5-fusecard-mittelkonsole-top.jpg" />
 
 |Sicherung|Verbraucher|
 |---------|-----------|
@@ -72,7 +72,7 @@ vw-t5-fusecard-mittelkonsole-top.jpg
 
 ## Sicherungskasten (C), der untere im FlaschenfachSicherungskasten (C), der untere im Flaschenfach
 
-vw-t5-fusecard-mittelkonsole-bottomjpg
+<img src="vw-t5-fusecard-mittelkonsole-bottom.jpg"/>
 
 |Sicherung|Verbraucher|
 |---------|-----------|
