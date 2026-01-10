@@ -104,6 +104,8 @@ Zusammengestellt nach bestem Wissen und Gewissen
 
 ## Sicherungen unter dem Fahrersitz für Campingausstattung
 
+<img src="VWT5 Sicherungen Fahrersitz.jpg">
+
 
 ----
 Quelle A,B,C: http://www.jewuwa.de/T5/T5_Doku/Belegung_Sicherungskasten.pdf; abgerufen am 10.01.2026
