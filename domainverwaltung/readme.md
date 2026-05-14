@@ -70,25 +70,4 @@ Die Fritzbox hat jeweilige Freigaben eingerichtet:
 - Fritzbox
   Die Fritzbox soll keinen Admin-Zugang im öffentlichen Internet anbieten.
 
-<img src="2026-03-13-1935.png" alt="2026-03-13-1935.png" />
-
-
-## Fragen bezüglich Fritzbox-Setup
-
-Ich möchte eine Portweiterleitung in einer Fritzbox einrichten.
-
-
-
-Was bis jetzt geht: 
-
-der Server im eigenen Heimnetz, liefert auf 192.168.178.10:10000 korrekt die Internetseite bei aufruf http://192.168.178.10:10000.
-
-Es soll von aussen aus dem Internet bei Aufruf der Subdomain http://xyz.test.de:80 über die Fritzbox angesteuert werden, welche dann intern an http://192.168.178.10:10000 weiterleitet.
-
-Wie genau müssen die Einstellungen in der Fritzbox gemacht werden.
-
-Die Domain zeigt im Heimnetz aufgerufen mit http://xyz.test.de:80 auf die Loginmaske der Fritzbox. Ein Aufruf derselbigen Adresse aus dem Internet aus, liefert keinerlei Verbindung.
-
-Der DynDNS Eintrag vom Domainprovider scheint also korrekt zu funktionieren.
-
-Was muss noch eingestellt werden, damit ein Aufruf aus dem Internet auf den weitergeleiteten Server funktioniert?
+<img src="netzwerk-aufbau.png" alt="netzwerk-aufbau.png" />
