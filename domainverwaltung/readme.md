@@ -56,7 +56,7 @@ Referenz zur Einrichtung:
 ### DynDNS
 Die Update URL lautet `https://<username>:<passwd>@dyndns.strato.com/nic/update?hostname=<domain>&myip=<ipaddr>,<ip6addr>`.
 
-<img src="fritzbox-dyndns.png" alt="2026-03-13-1935.png"/>
+<img src="fritzbox-dyndns.png" alt="fritzbox-dyndns.png"/>
 
 ### Freigaben
 
@@ -64,10 +64,23 @@ Die Fritzbox hat jeweilige Freigaben eingerichtet:
 
 <img src="freigabe-1.png" />
 <img src="freigabe-2.png" />
+<img src="Freigaben-Details.png" />
+
+_Nachdenker:_
+_Wenn Port 443 bzw. 80 für den Forward ausgewählt ist, wie kann dann noch auf die Administrativ-Oberfläche zugegriffen werden? - Oder ist diese kein Problem, wenn über das Heimnetz zugegriffen wird?_  
+_Somit kann man sich ja quasi für immer den eigenen Admin-Zugang sperren und müsste die Box resetten, um wieder zuzugreifen._
+
+### DNS-Rebind
+
+Di KI hat mir auf meiner Suche auch folgenden Eintrag empfohlen. Der (allein) ändert aber nichts. Ob die Syntax in der Textarea korrekt ist, weiss ich auch nicht 100%ig.
+
+<img src="DNS-rebind.png" alt="DNS-rebind.png"/>
 
 ## Gewünschtes End-Szenario
 
-- Fritzbox
-  Die Fritzbox soll keinen Admin-Zugang im öffentlichen Internet anbieten.
+- Der Aufruf aus Internet `https://sub.example.de` soll auf einen Service im Heimnetz unter `https://192.168.178.10:xyz` zugreifen.
 
-<img src="netzwerk-aufbau.png" alt="netzwerk-aufbau.png" />
+- Die Fritzbox soll keinen Admin-Zugang im öffentlichen Internet anbieten.
+
+- Netzwerk
+  <img src="netzwerk-aufbau.png" alt="netzwerk-aufbau.png" />
